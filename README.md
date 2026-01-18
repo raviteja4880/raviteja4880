@@ -1,91 +1,109 @@
-## Ravi Teja Kandula
+<div align="center" style="background-color:#0d1117; padding:28px; border-radius:12px; color:#c9d1d9;">
 
-Full-Stack Web Developer (MERN Stack)
-Guntur, Andhra Pradesh, India
+<h1 style="color:#58a6ff;">Ravi Teja Kandula</h1>
+<h3>Full-Stack Web Developer · MERN Stack</h3>
 
----
+<p>
+Building secure, scalable, and production-ready web applications with a strong focus on
+clean architecture, role-based systems, and real-world workflows.
+</p>
 
-### Professional Summary
-
-Motivated full-stack web developer with hands-on experience in building responsive, secure, and scalable web applications using the MERN stack. Strong foundation in frontend and backend development, RESTful APIs, authentication, and deployment. Experienced in delivering academic and real-world projects with a focus on clean UI, performance optimization, and maintainable code. Eager to contribute to collaborative engineering teams and grow as a software professional.
-
----
-
-### Technical Skills
-
-**Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
-**Backend:** Node.js, Express.js, REST APIs, JWT Authentication
-**Databases:** MongoDB Atlas, MySQL
-**Programming Languages:** C, Java, Python
-**Tools & Platforms:** Git, GitHub, Postman, VS Code
-**Deployment:** Netlify, Vercel, Render
+</div>
 
 ---
 
-### Projects
+## Professional Summary
 
-**MyStore – Full-Stack E-Commerce Website**
-
-* Developed a responsive e-commerce platform using MongoDB, Express, React, and Node.js
-* Implemented JWT-based authentication with multi-role access (User, Admin, Super Admin, Delivery Partner)
-* Built features including product listings, shopping cart, secure checkout, and order management
-* Integrated real-time cart updates, automated email notifications, and multiple payment options (QR, Card, COD)
-* Improved page load performance by approximately 20% and reduced checkout time by 30% through optimized UI design
-
-Repository: [https://github.com/raviteja4880/E-commers](https://github.com/raviteja4880/E-commers)
-Live Demo: [https://tejacommerce.netlify.app](https://tejacommerce.netlify.app)
+Full-stack web developer with hands-on experience in designing and developing MERN stack applications.
+Strong understanding of RESTful APIs, JWT-based authentication, role-based access control,
+and responsive UI development. Experienced in building end-to-end systems such as
+e-commerce platforms and real-time applications, with deployment on modern cloud platforms.
 
 ---
 
-**Online Quiz Application**
+## Technical Skills
 
-* Built a full-stack quiz platform with user authentication, real-time scoring, and an admin management panel
-* Designed scalable REST APIs for quizzes, results, and admin controls
-* Implemented JWT-based authentication, improving login security and access control
-* Deployed on Render with MongoDB Atlas, supporting 100+ concurrent users with stable performance
-
-Repository: [https://github.com/raviteja4880/quiz-app](https://github.com/raviteja4880/quiz-app)
-Live Demo: [https://idpquizapp.netlify.app](https://idpquizapp.netlify.app)
-
----
-
-### Education
-
-**B.Tech in Computer Science**
-Vignan University | 2023 – Present
-CGPA: 6.6 / 10
-
-**Intermediate (MPC)**
-Sri Chaitanya Junior College | 2021 – 2023
-Percentage: 75%
+| Category                  | Technologies                                          |
+| ------------------------- | ----------------------------------------------------- |
+| Frontend                  | React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap 5 |
+| Backend                   | Node.js, Express.js, REST APIs                        |
+| Authentication & Security | JWT, Role-Based Access Control                        |
+| Databases                 | MongoDB Atlas, MySQL                                  |
+| Programming Languages     | Java, Python, C                                       |
+| Tools & Platforms         | Git, GitHub, Postman, VS Code                         |
+| Deployment                | Netlify, Render                                       |
 
 ---
 
-### Certifications
+## Selected Projects
 
-* Introduction to Networks – Cisco Networking Academy (NetAcad)
-* Networking Essentials – Cisco Networking Academy (NetAcad)
-* Introduction to Web Development – Great Learning
+### MyStore (TejaCommerce) — MERN E-Commerce Platform
 
----
-
-### Additional Activities
-
-* Captain, Intra-University Kabaddi Team – Winners of the Intra-Sport Championship 2024
-* Represented the college in inter-college Kabaddi tournaments and departmental fests
-
----
-
-### Languages
-
-* Telugu – Native Proficiency
-* English – Professional Working Proficiency
-* Hindi – Limited Working Proficiency
+|              |                                                                                        |
+| ------------ | -------------------------------------------------------------------------------------- |
+| Description  | Full-stack e-commerce platform with multi-role access and real-time order workflows    |
+| Key Features | JWT authentication, role-based dashboards, cart & checkout, email notifications        |
+| Tech Stack   | MongoDB, Express, React, Node.js                                                       |
+| Live Demo    | [https://tejacommerce.netlify.app](https://tejacommerce.netlify.app)                   |
+| Repository   | [https://github.com/raviteja4880/E-commers](https://github.com/raviteja4880/E-commers) |
 
 ---
 
-### Contact
+### Online Quiz Application
 
-Email: [ravitejakandul@gmail.com](mailto:ravitejakandul@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/RaviTejaKandula](https://www.linkedin.com/in/RaviTejaKandula)
-GitHub: [https://github.com/raviteja4880](https://github.com/raviteja4880)
+|              |                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------ |
+| Description  | Secure quiz platform with real-time scoring and admin management                     |
+| Key Features | Authentication, scalable REST APIs, admin controls                                   |
+| Tech Stack   | MongoDB, Express, React, Node.js                                                     |
+| Live Demo    | [https://idpquizapp.netlify.app](https://idpquizapp.netlify.app)                     |
+| Repository   | [https://github.com/raviteja4880/quiz-app](https://github.com/raviteja4880/quiz-app) |
+
+---
+
+## Education
+
+| Degree                    | Institution                  | Year           |
+| ------------------------- | ---------------------------- | -------------- |
+| B.Tech (Computer Science) | Vignan University            | 2023 – Present |
+| Intermediate (MPC)        | Sri Chaitanya Junior College | 2021 – 2023    |
+
+---
+
+## Certifications
+
+| Certification                   | Platform                 |
+| ------------------------------- | ------------------------ |
+| Introduction to Networks        | Cisco Networking Academy |
+| Networking Essentials           | Cisco Networking Academy |
+| Introduction to Web Development | Great Learning           |
+
+---
+
+## Professional Interests
+
+|                                    |
+| ---------------------------------- |
+| Full-Stack System Design           |
+| Scalable Web Architectures         |
+| Secure Backend Development         |
+| ML Integration in Web Applications |
+
+---
+
+## Contact
+
+|          |                                                                                    |
+| -------- | ---------------------------------------------------------------------------------- |
+| Email    | [ravitejakandul@gmail.com](mailto:ravitejakandul@gmail.com)                        |
+| GitHub   | [https://github.com/raviteja4880](https://github.com/raviteja4880)                 |
+| LinkedIn | [https://linkedin.com/in/RaviTejaKandula](https://linkedin.com/in/RaviTejaKandula) |
+
+---
+
+<div align="center" style="background-color:#0d1117; padding:16px; border-radius:10px; color:#8b949e;">
+
+Focused on writing clean code, building real-world systems,
+and continuously improving as a software engineer.
+
+</div>
