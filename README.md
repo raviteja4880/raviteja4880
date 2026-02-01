@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#0d1117; padding:28px; border-radius:12px; color:#c9d1d9;">
+<div style="background-color:#0d1117; padding:30px; border-radius:14px; color:#c9d1d9;">
 
 <h1 style="color:#58a6ff;">Ravi Teja Kandula</h1>
 <h3>Full-Stack Web Developer · MERN Stack</h3>
@@ -31,20 +31,20 @@ e-commerce platforms and real-time applications, with deployment on modern cloud
 | Databases                 | MongoDB Atlas, MySQL                                  |
 | Programming Languages     | Java, Python, C                                       |
 | Tools & Platforms         | Git, GitHub, Postman, VS Code                         |
-| Deployment                | Netlify, Render                                       |
+| Deployment                | Netlify, Render, Vercel                               |
 
 ---
 
 ## Selected Projects
 
-### MyStore (TejaCommerce) — MERN E-Commerce Platform
+### MyStoreX — MERN E-Commerce Platform
 
 |              |                                                                                        |
 | ------------ | -------------------------------------------------------------------------------------- |
 | Description  | Full-stack e-commerce platform with multi-role access and real-time order workflows    |
 | Key Features | JWT authentication, role-based dashboards, cart & checkout, email notifications        |
-| Tech Stack   | MongoDB, Express, React, Node.js                                                       |
-| Live Demo    | [https://tejacommerce.netlify.app](https://mystorx.netlify.app)                   |
+| Tech Stack   | MongoDB, Express, React, Node.js, ML                                                   |
+| Live Demo    | [https://mystorx.netlify.app](https://mystorx.netlify.app)                             |
 | Repository   | [https://github.com/raviteja4880/E-commers](https://github.com/raviteja4880/E-commers) |
 
 ---
