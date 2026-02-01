@@ -44,7 +44,7 @@ e-commerce platforms and real-time applications, with deployment on modern cloud
 | Description  | Full-stack e-commerce platform with multi-role access and real-time order workflows    |
 | Key Features | JWT authentication, role-based dashboards, cart & checkout, email notifications        |
 | Tech Stack   | MongoDB, Express, React, Node.js                                                       |
-| Live Demo    | [https://tejacommerce.netlify.app](https://tejacommerce.netlify.app)                   |
+| Live Demo    | [https://tejacommerce.netlify.app](https://mystorx.netlify.app)                   |
 | Repository   | [https://github.com/raviteja4880/E-commers](https://github.com/raviteja4880/E-commers) |
 
 ---
@@ -72,11 +72,11 @@ e-commerce platforms and real-time applications, with deployment on modern cloud
 
 ## Certifications
 
-| Certification                   | Platform                 |
-| ------------------------------- | ------------------------ |
-| Introduction to Networks        | Cisco Networking Academy |
-| Networking Essentials           | Cisco Networking Academy |
-| Introduction to Web Development | Great Learning           |
+| Certification                        | Platform                 |
+| ------------------------------------ | ------------------------ |
+| EC2 Auto Scaling, Lambda Foundations | AWS                      |
+| Introduction to Web Development      | Great Learning           |
+| Networking Essentials                | Cisco Networking Academy |
 
 ---
 
@@ -93,11 +93,11 @@ e-commerce platforms and real-time applications, with deployment on modern cloud
 
 ## Contact
 
-|          |                                                                                    |
-| -------- | ---------------------------------------------------------------------------------- |
-| Email    | [ravitejakandul@gmail.com](mailto:ravitejakandul@gmail.com)                        |
-| GitHub   | [https://github.com/raviteja4880](https://github.com/raviteja4880)                 |
-| LinkedIn | [https://linkedin.com/in/RaviTejaKandula](https://linkedin.com/in/RaviTejaKandula) |
+|              |                                                                                    |
+| ------------ | ---------------------------------------------------------------------------------- |
+| Email        | [ravitejakandul@gmail.com](mailto:ravitejakandul@gmail.com)                        |
+| Portfolio    | [https://tejaportfolio1.netlify.app](https://tejaportfolio1.netlify.app)           |
+| LinkedIn     | [https://linkedin.com/in/RaviTejaKandula](https://linkedin.com/in/ravitejakandula) |
 
 ---
 
