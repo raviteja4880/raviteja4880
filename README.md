@@ -31,7 +31,8 @@ e-commerce platforms and real-time applications, with deployment on modern cloud
 | Databases                 | MongoDB Atlas, MySQL                                  |
 | Programming Languages     | Java, Python, C                                       |
 | Tools & Platforms         | Git, GitHub, Postman, VS Code                         |
-| Deployment                | Netlify, Render, Vercel                               |
+| Cache                     | Redis                                                 |
+| Deployment                | Netlify, Render, Vercel, AWS                          |
 
 ---
 
@@ -43,7 +44,7 @@ e-commerce platforms and real-time applications, with deployment on modern cloud
 | ------------ | -------------------------------------------------------------------------------------- |
 | Description  | Full-stack e-commerce platform with multi-role access and real-time order workflows    |
 | Key Features | JWT authentication, role-based dashboards, cart & checkout, email notifications        |
-| Tech Stack   | MongoDB, Express, React, Node.js, ML                                                   |
+| Tech Stack   | MongoDB, Express, React, Node.js, ML, Redis                                            |
 | Live Demo    | [https://mystorx.netlify.app](https://mystorx.netlify.app)                             |
 | Repository   | [https://github.com/raviteja4880/E-commers](https://github.com/raviteja4880/E-commers) |
 
@@ -88,6 +89,7 @@ e-commerce platforms and real-time applications, with deployment on modern cloud
 | Scalable Web Architectures         |
 | Secure Backend Development         |
 | ML Integration in Web Applications |
+| Mobile Application Development     |
 
 ---
 
