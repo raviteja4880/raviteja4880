@@ -1,11 +1,20 @@
-<div style="background-color:#0d1117; padding:30px; border-radius:14px; color:#c9d1d9;">
+<div style="background: linear-gradient(135deg, #0d1117, #161b22); padding:32px; border-radius:16px; color:#c9d1d9; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
 
-<h1 style="color:#58a6ff;">Ravi Teja Kandula</h1>
-<h3>Full-Stack Web Developer · MERN Stack</h3>
+<h1 style="color:#58a6ff; margin-bottom:6px;">Ravi Teja Kandula</h1>
 
-<p>
-Building secure, scalable, and production-ready web applications with a strong focus on
-clean architecture, role-based systems, and real-world workflows.
+<h3 style="color:#8b949e; font-weight:500; margin-top:0;">
+Full-Stack Developer · MERN Stack · AI Systems Builder
+</h3>
+
+<p style="line-height:1.6; margin-top:14px;">
+I build <b>scalable, production-grade applications</b> combining modern web technologies and AI systems.
+Focused on <b>clean architecture, real-time systems, and high-performance backends</b>, with hands-on experience in
+MERN stack and Retrieval-Augmented Generation (RAG) pipelines.
+</p>
+
+<p style="line-height:1.6;">
+Passionate about designing <b>intelligent systems</b> that solve real-world problems, from full-stack platforms
+to AI-powered applications with efficient data pipelines and low-latency performance.
 </p>
 
 </div>
@@ -25,13 +34,15 @@ e-commerce platforms and real-time applications, with deployment on modern cloud
 
 | Category                  | Technologies                                          |
 | ------------------------- | ----------------------------------------------------- |
-| Frontend                  | React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap 5 |
-| Backend                   | Node.js, Express.js, REST APIs                        |
+| Frontend                  | React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap5  |
+| Backend                   | Node.js, Express.js, REST APIs, FAST API              |
 | Authentication & Security | JWT, Role-Based Access Control                        |
+| Cache                     | Redis                                                 |
+| AI                        | RAG, ML                                               |
+| Android Development       | Java                                                  |
 | Databases                 | MongoDB Atlas, MySQL                                  |
 | Programming Languages     | Java, Python, C                                       |
-| Tools & Platforms         | Git, GitHub, Postman, VS Code                         |
-| Cache                     | Redis                                                 |
+| Tools & Platforms         | Git, GitHub, Postman, VS Code, Android Studio         |
 | Deployment                | Netlify, Render, Vercel, AWS                          |
 
 ---
@@ -49,16 +60,29 @@ e-commerce platforms and real-time applications, with deployment on modern cloud
 | Repository   | [https://github.com/raviteja4880/E-commers](https://github.com/raviteja4880/E-commers) |
 
 ---
+### Guardian SOS App — Women Safety Android Application
 
-### Online Quiz Application
+|              |                                                                                                                              |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| Description  | Android-based emergency safety application enabling instant SOS alerts with real-time location tracking                      |
+| Key Features | One-tap SOS, shake detection trigger, live GPS tracking, automatic SMS alerts, fake call simulator, safe check-in timer      |
+| Tech Stack   | Java (Android), XML, Firebase Firestore, Google Maps SDK, Fused Location Provider, Geocoder, Android Sensors, SmsManager     |
+| Architecture | Clean Architecture with MVVM using LiveData, ViewModel, and Navigation Components                                            |
+| Workflow     | Trigger SOS → Capture location → Send SMS & alerts → Update Firestore → Enable live tracking for contacts                    |
+| Repository   | [https://github.com/raviteja4880/Emergency-SOS](https://github.com/raviteja4880/Emergency-SOS)                               |
 
-|              |                                                                                      |
-| ------------ | ------------------------------------------------------------------------------------ |
-| Description  | Secure quiz platform with real-time scoring and admin management                     |
-| Key Features | Authentication, scalable REST APIs, admin controls                                   |
-| Tech Stack   | MongoDB, Express, React, Node.js                                                     |
-| Live Demo    | [https://idpquizapp.netlify.app](https://idpquizapp.netlify.app)                     |
-| Repository   | [https://github.com/raviteja4880/quiz-app](https://github.com/raviteja4880/quiz-app) |
+---
+
+### RAG Premium v3.0 — AI Retrieval System
+
+|              |                                                                                                  |
+| ------------ | ------------------------------------------------------------------------------------------------ |
+| Description  | Production-grade RAG system for low-latency, high-accuracy document-based question answering     |
+| Key Features | Dual-LLM pipeline, Pinecone vector search, FlashRank reranking, Redis caching, SSE streaming     |
+| Tech Stack   | FastAPI, React, Pinecone, MongoDB, Redis, PyMuPDF, RapidOCR, Groq (Llama 70B & 8B), FlashRank    |
+| Architecture | Modular pipelines: Ingestion → Retrieval → Generation with async processing and dual storage     |
+| Workflow     | Upload → Extract → Chunk → Embed → Retrieve → Rerank → Generate → Stream → Store                 |
+| Repository   | [https://github.com/raviteja4880/RAG](https://github.com/raviteja4880/RAG)                       |
 
 ---
 
@@ -77,6 +101,7 @@ e-commerce platforms and real-time applications, with deployment on modern cloud
 | ------------------------------------ | ------------------------ |
 | EC2 Auto Scaling, Lambda Foundations | AWS                      |
 | Introduction to Web Development      | Great Learning           |
+| Introduction to MERN Stack           | Ilearn                   |
 | Networking Essentials                | Cisco Networking Academy |
 
 ---
@@ -89,6 +114,7 @@ e-commerce platforms and real-time applications, with deployment on modern cloud
 | Scalable Web Architectures         |
 | Secure Backend Development         |
 | ML Integration in Web Applications |
+| RAG Applications                   |
 | Mobile Application Development     |
 
 ---
@@ -99,7 +125,7 @@ e-commerce platforms and real-time applications, with deployment on modern cloud
 | ------------ | ---------------------------------------------------------------------------------- |
 | Email        | [ravitejakandul@gmail.com](mailto:ravitejakandul@gmail.com)                        |
 | Portfolio    | [https://tejaportfolio1.netlify.app](https://tejaportfolio1.netlify.app)           |
-| LinkedIn     | [https://linkedin.com/in/RaviTejaKandula](https://linkedin.com/in/ravitejakandula) |
+| LinkedIn     | [https://linkedin.com/in/ravitejakandula](https://linkedin.com/in/ravitejakandula) |
 
 ---
 
